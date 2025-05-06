@@ -17,16 +17,16 @@
 
 ## 项目结构
 
-project/
-├── data/               # 数据集
-│   ├── raw/           # 原始数据
-│   └── processed/     # 处理后的数据
-├── src/               # 源代码
-│   ├── preprocessing/ # 数据预处理模块
-│   ├── models/       # 模型实现
-│   └── utils/        # 工具函数
-└── notebooks/        # Jupyter notebooks
-
+- project/
+  - data/                   # 数据集
+    - raw/                 # 原始数据
+    - processed/           # 处理后的数据
+  - src/                   # 源代码
+    - preprocessing/       # 数据预处理模块
+    - models/             # 模型实现
+    - utils/              # 工具函数
+  - notebooks/            # Jupyter notebooks
+  - 
 ## 技术实现
 
 ### 数据预处理
